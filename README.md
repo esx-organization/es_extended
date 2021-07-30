@@ -31,7 +31,7 @@ Apresentando muitos recursos extras para servidores de RolePlay, sendo os recurs
 ## Requisitos
 
 - [mysql-async](https://github.com/brouznouf/fivem-mysql-async)
-- [async](https://github.com/ESX-Org/async)
+- [async](https://github.com/esx-organization/async)
 
 
 ## Download & Instalação
@@ -41,21 +41,21 @@ Apresentando muitos recursos extras para servidores de RolePlay, sendo os recurs
 
 ```
 cd resources
-git clone https://github.com/ESX-Org/es_extended [essential]/es_extended
-git clone https://github.com/ESX-Org/esx_menu_default [esx]/[ui]/esx_menu_default
-git clone https://github.com/ESX-Org/esx_menu_dialog [esx]/[ui]/esx_menu_dialog
-git clone https://github.com/ESX-Org/esx_menu_list [esx]/[ui]/esx_menu_list
+git clone https://github.com/esx-organization/es_extended [essential]/es_extended
+git clone https://github.com/esx-organization/esx_menu_default [esx]/[ui]/esx_menu_default
+git clone https://github.com/esx-organization/esx_menu_dialog [esx]/[ui]/esx_menu_dialog
+git clone https://github.com/esx-organization/esx_menu_list [esx]/[ui]/esx_menu_list
 ```
 
 ### Manualmente
 
-- Download https://github.com/ESX-Org/es_extended/releases/latest
+- Download https://github.com/esx-organization/es_extended/releases/latest
 - Adicione o arquivo ao diretório `resource/[essential]`.
-- Download https://github.com/ESX-Org/esx_menu_default/releases/latest
+- Download https://github.com/esx-organization/esx_menu_default/releases/latest
 - Adicione o arquivo ao diretório `resource/[esx]/[ui]`.
-- Download https://github.com/ESX-Org/esx_menu_dialog/releases/latest
+- Download https://github.com/esx-organization/esx_menu_dialog/releases/latest
 - Adicione o arquivo ao diretório `resource/[esx]/[ui]`.
-- Download https://github.com/ESX-Org/esx_menu_list/releases/latest
+- Download https://github.com/esx-organization/esx_menu_list/releases/latest
 - Adicione o arquivo ao diretório `resource/[esx]/[ui]`.
 
 ### Instalação
